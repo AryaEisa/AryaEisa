@@ -23,11 +23,9 @@ React, Node.js, Python, Flutter, JavaScript, Figma, and more
 
 ## 🌟 Featured Projects
 
-### [Ophelia AI](https://github.com/AryaEisa/ThreatModelling_SystemRiskProfiling)
+### [Ophelia AI](https://projectophelia.se)
 *AI-powered risk assessment tool for detecting intimate partner violence, piloted with Swedish municipalities.*
 
-### [Luxe Barber Folio](https://github.com/AryaEisa/luxe-barber-folio) · [Bazarixom Boutique](https://github.com/AryaEisa/bazarixom-boutique) · [ChatBot](https://github.com/AryaEisa/ChatBot)
-_Sleek web experiences and interactive apps, crafted with React, JavaScript, and a dash of creativity._
 
 ---
 
