@@ -4,7 +4,7 @@
 
 ---
 
-I’m passionate about building innovative software and AI solutions that solve real-world problems. With a strong foundation in project management and development, I thrive at the intersection of technical excellence and user-centered design. I’ve led cross-functional teams to deliver impactful projects — from concept to launch — and love empowering others to reach their best.
+I’m passionate about building innovative software and AI solutions that solve real world problems. With a strong foundation in project management and development, I thrive at the intersection of technical excellence and user centered design. I’ve led cross functional teams to deliver impactful projects from concept to launch and love empowering others to reach their best.
 
 ---
 
@@ -13,7 +13,7 @@ I’m passionate about building innovative software and AI solutions that solve 
 - **Project Management & Business Development**
 - **Risk Analysis & Profiling**
 - **AI and Software Development**
-- **Cross-platform App Development (Flutter)**
+- **Cross platform App Development (Flutter)**
 - **UI/UX Design**
 
 **Languages & Tools:**  
