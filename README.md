@@ -26,7 +26,7 @@ React, Node.js, Python, Flutter, JavaScript, Figma, and more
 ### [Ophelia AI](https://projectophelia.se)
 *AI-powered risk assessment tool for detecting intimate partner violence, piloted with Swedish municipalities.*
 
-### [Threesoft AB](ttps://threesoft.se)
+### [Threesoft AB](https://threesoft.se)
 *IT company with focus on web development.*
 
 ### [Green Multikonsult och säkerhet AB](https://gmsakerhet.com/)
