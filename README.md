@@ -26,6 +26,20 @@ React, Node.js, Python, Flutter, JavaScript, Figma, and more
 ### [Ophelia AI](https://projectophelia.se)
 *AI-powered risk assessment tool for detecting intimate partner violence, piloted with Swedish municipalities.*
 
+### [Threesoft AB](ttps://threesoft.se)
+*IT company with focus on web development.*
+
+### [Green Multikonsult och säkerhet AB](https://gmsakerhet.com/)
+*A security Swedish based company, they rent security officers for different prohects.* 
+
+### [Mazen Barber Shop](https://mazenbarbershop.netlify.app/)
+*A barbershop based in Netherlands, this is a basic static website just in marketing porpuse.* 
+
+### [CRM system for Ophelia AI](https://ophelia-intranet.netlify.app/)
+*A simple CRM system for daily porpuse* 
+
+
+
 
 ---
 
