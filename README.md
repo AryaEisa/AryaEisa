@@ -45,7 +45,7 @@ React, Node.js, Python, Flutter, JavaScript, Figma, and more
 
 ## 💡 Fun Facts
 
-- I enjoy blending tech with creativity — from game-inspired portfolio designs to interactive web experiences.
+- I enjoy blending tech with creativity from game inspired portfolio designs to interactive web experiences.
 - Outside of coding, I’m into brand design, entrepreneurship, and experimenting with AI-powered tools.
 
 ---
